@@ -72,7 +72,7 @@ body {
 
 header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     margin: 0 auto;
     padding: 30px 20px;
@@ -81,7 +81,7 @@ header {
 }
 
 h1 {
-    padding-right: 150px;
+    padding-right: 130px;
     font-size: 20px;
     font-weight: bold;
     color: #a4532d;
@@ -151,7 +151,7 @@ main {
 .galerie {
     width: 40%;
     float: left;
-    padding: 170px 50px;
+    padding: 170px 20px;
 }
 
 .galerie h2 {
